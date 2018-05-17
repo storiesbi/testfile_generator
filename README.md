@@ -1,6 +1,6 @@
 # Perfomance test file generator
 
-Generate random CSV file for performance testing.
+Generate random CSV file for performance testing. Example: https://s3.eu-central-1.amazonaws.com/public.stories.bi/perf_test.csv
 
 ## parameters
 - *DIM_COUNT*: Number of attribute dimensions.
